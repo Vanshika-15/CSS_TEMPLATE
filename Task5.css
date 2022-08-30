@@ -1,0 +1,71 @@
+.ab{
+	height: 50px;
+	width: auto;
+	background-color: navy;
+	color: white;
+	margin-top: -10px;
+	position: relative;
+	
+}
+.bc{
+	margin-left: 180px;
+	margin-top: 50px;
+}
+.cd{
+	margin-left: 300px;
+	margin-top: 50px;
+}
+.de{
+	margin-left: 400px;
+	margin-top: 50px;
+}
+.ef{
+	margin-left: 520px;
+	margin-top: 50px;
+}
+.fg{
+	margin-left:620px;
+	margin-top: 50px;
+
+}
+.gh{
+	margin-left: 720px;
+	margin-top: 50px;
+}
+.aa{
+	background-image: url('task5.jpg');
+	height: 100vh;
+	width: auto;
+	background-size: 100% 100%;
+	margin-top: -40px;
+	position: relative;
+
+}
+.ss{
+     position: absolute;
+	margin-left: 120px;
+	margin-top: 240px;
+	
+
+
+}
+.box1{
+	background-color: darkgrey;
+
+}
+.box2{
+	background-color: white;
+	
+}
+.box3{
+	background-color: white;
+	
+}
+.box4{
+	background-color: white;
+
+	
+}
+.bb:hover{
+			background-color: lightskyblue;
+		}
